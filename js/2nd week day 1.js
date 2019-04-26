@@ -1,6 +1,6 @@
 //math.random() creates a random number between 1 and 0, math.floor() returns the largest whole number equal to a given number. so in this times' our random number by 50
 
-console.log(Math.floor((Math.random() * 50) +1))
+console.log(Math.floor((Math.random() * 50) +1));
 console.log(Math.floor((Math.random() * 50) +1))
 console.log(Math.floor((Math.random() * 50) +1))
 console.log(Math.floor((Math.random() * 50) +1))
